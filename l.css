@@ -1,0 +1,34 @@
+.mainbox{
+  width: 500px;
+  height: 400px;
+  margin: 2px;
+  padding: 2px;
+  background-color: white;
+  margin-left: 30%;
+  margin-right: 50%;
+  margin-top:0px;
+  margin-bottom: 200px;
+  border-radius: 15px;
+  box-shadow: 5px 2px 2px white;
+}
+input{
+  width: 450px;
+  height: 50px;
+  margin-top: 5px;
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-bottom: 5px;
+  border-radius: 10px;
+  text-align: left;
+}
+.subbox{
+  width: 450px;
+  height: 50px;
+  background-color: blue;
+  margin-top: 5px;
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-bottom: 5px;
+  border-radius: 10px;
+ text-align: center;
+}
